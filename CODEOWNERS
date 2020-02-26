@@ -1,0 +1,15 @@
+# This is a comment.
+# Each line is a file pattern followed by one or more owners.
+
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+# @global-owner1 and @global-owner2 will be requested for
+# review when someone opens a pull request.
+*   @msarmi9
+
+# We can also add codeowners for specific file patterns
+# Each team member will be the owner of their own notebooks
+LM.*ipynb @Lin-Leon-MENG
+MS.*ipynb @msarmi9
+LS.*ipynb @21littlesun
+
