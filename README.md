@@ -1,4 +1,4 @@
-ML Lab Final Project  
+Kaggle / ML Lab Final Project  
 Authors:  
 * Lin Meng  
 * Matt Sarmiento  
